@@ -15,7 +15,7 @@
 
 https://github.com/shellygoel06/ChefGPT/assets/32814013/296ac183-123f-43c9-a77a-068fc3d645ce
 
-Detailed report of the project is available at [here](https://github.com/shellygoel06/ChefGPT/blob/main/ChefGPT.pdf).
+Detailed report of the project is available at [here](https://github.com/shellygoel06/AIML/ChefGPT/blob/main/ChefGPT.pdf).
 
 ## Steps to Run the Project 
 ### 1. Ensure OpenAI Account and API Keys: 
@@ -42,11 +42,11 @@ Detailed report of the project is available at [here](https://github.com/shellyg
 
 ## System Design
 
-![SystemDiagram](https://github.com/shellygoel06/ChefGPT/assets/32814013/1a937beb-d92b-4379-a702-6d4e3f027ea2)
+![SystemDiagram](https://github.com/shellygoel06/AIML/ChefGPT/assets/32814013/1a937beb-d92b-4379-a702-6d4e3f027ea2)
 
 ## Flow Chart
 
-![FlowChart](https://github.com/shellygoel06/ChefGPT/assets/32814013/8e0a0b51-20f8-4932-8e69-363f24778e93)
+![FlowChart](https://github.com/shellygoel06/AIML/ChefGPT/assets/32814013/8e0a0b51-20f8-4932-8e69-363f24778e93)
 
 
 ## Conclusion
